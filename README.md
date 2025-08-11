@@ -28,7 +28,7 @@ In essence, Quadency bridges the gap between manual trading and full automation 
 
 ---
 
-![Quadency Interface](https://bitsgap.com/content/images/2025/04/MAR-1764-7.png)
+![Quadency Interface](https://fsr-develop.com/wp-content/uploads/2024/09/image-1372-1024x521.png)
 
 ---
 
